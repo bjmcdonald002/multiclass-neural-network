@@ -12,7 +12,15 @@ The notebook walks through every stage of a typical deep learning pipeline:
 - 📊 **Results visualization:** Average test accuracies are presented in a clear bar chart for easy comparison.
 - 🏅 **Final model selection:** The best-performing model is labeled and prepared for use with new data.
 
-## Contents
+## 📄 Data Requirements
+
+This notebook expects a CSV named `data2.csv` in the repository root, containing the features and class labels as described in the project.
+
+> **Note:** The dataset was provided by the course instructor and is **not redistributed** here.  
+> If you have legitimate access, place your copy of `data2.csv` beside the notebook before running.
+
+
+## 📁 Contents
 
 - `Multiclass_Neural_Network.ipynb` — Main notebook containing the entire workflow, from data preprocessing through model training and evaluation.
 
