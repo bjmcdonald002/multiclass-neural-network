@@ -12,7 +12,7 @@ The notebook walks through every stage of a typical deep learning pipeline:
 - 📊 **Results visualization:** Average test accuracies are presented in a clear bar chart for easy comparison.
 - 🏅 **Final model selection:** The best-performing model is labeled and prepared for use with new data.
 
-## 📄 Data Requirements
+## 🗃️ Data Requirements
 
 This notebook expects a CSV named `data2.csv` in the repository root, containing the features and class labels as described in the project.
 
