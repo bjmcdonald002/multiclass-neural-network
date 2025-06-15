@@ -32,7 +32,7 @@ This notebook expects a CSV named `data2.csv` in the repository root, containing
 - The value of early stopping and cross-validation for fair, unbiased model selection.
 - The practical benefit of iterating, tinkering, and verifying—rather than relying solely on default settings.
 
-## 👽 Author
+## Author
 
 *Prepared by Barrett James McDonald | PhD Student | University of South Florida*
 
