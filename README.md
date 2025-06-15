@@ -1,4 +1,4 @@
-# 🤖 Multiclass Neural Network
+# Multiclass Neural Network
 
 This repository contains a single Jupyter notebook, **Multiclass_Neural_Network.ipynb**, which demonstrates how to build, train, and evaluate a fully-connected neural network for multi-class classification. The project was completed as part of a graduate-level deep learning course, and the resulting model achieved the highest test accuracy in the class. 🏆
 
