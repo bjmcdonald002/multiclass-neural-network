@@ -28,7 +28,6 @@ This notebook expects a CSV named `data2.csv` in the repository root, containing
 - The importance of shuffling and normalizing data before training neural networks.
 - How systematic experimentation with model architecture and hyperparameters can significantly improve accuracy.
 - The value of early stopping and cross-validation for fair, unbiased model selection.
-- The practical benefit of iterating, tinkering, and verifying—rather than relying solely on default settings.
 
 ## Author
 
