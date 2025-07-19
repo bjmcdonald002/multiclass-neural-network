@@ -21,7 +21,7 @@ This notebook expects a CSV named `data2.csv` in the repository root, containing
 
 ## Contents
 
-- `Multiclass_Neural_Network.ipynb` — Main notebook containing the entire workflow, from data preprocessing through model training and evaluation.
+- `Multiclass_Neural_Network.ipynb`: Main notebook containing the entire workflow, from data preprocessing through model training and evaluation.
 
 ## Key Lessons
 
